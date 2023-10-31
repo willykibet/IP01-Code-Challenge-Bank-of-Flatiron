@@ -11,4 +11,4 @@ function Transaction({date, description, category, amount}) {
   );
 }
 
-export default Transaction;
+export default Transaction; 
