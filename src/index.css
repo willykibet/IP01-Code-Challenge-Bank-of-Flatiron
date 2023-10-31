@@ -10,6 +10,7 @@ input {
 }
 
 body {
+  background: blueviolet;
   margin: 0;
   padding: 0;
   font-family: sans-serif;
